@@ -1,3 +1,3 @@
-a = "Teskst"
+a = "GIT"
 b = " tesktowo"
 print(a+b)
