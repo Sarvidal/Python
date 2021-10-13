@@ -1,2 +1,3 @@
 a = "Teskst"
-print(a)
+b = " tesktowo"
+print(a+b)
